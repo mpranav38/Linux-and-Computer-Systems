@@ -1,0 +1,10 @@
+www.google.com 17.392
+www.facebook.com 17.242
+www.iit.edu 40.631
+www.instagram.com 14.076
+www.youtube.com 14.864
+www.microsoft.com 15.883
+www.apple.com 21.318
+www.msi.com 17.855
+www.amazon.com 17.839
+www.lenovo.com 13.312
